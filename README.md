@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 12 2018
 
 ### Student Name:  
-(First and Last Name)
+Zoe Patrick
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The application will allow a user to search for a movie and obtain information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
+https://zosps.github.io/lesson8_ajax/
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use Ajax tom implement a search engine
+2. update a webpage by processing data
+3. faamiliarize with AJAX-- which allows developers to interact with server-side data 
